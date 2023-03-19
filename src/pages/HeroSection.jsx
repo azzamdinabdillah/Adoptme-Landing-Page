@@ -7,7 +7,7 @@ const HeroSection = () => {
          }}>
             <div className="lg:flex flex-row-reverse gap-10 items-center">
             <div className="pt-10">
-                <img src="./images/hero-image.png" alt="" className="mx-auto md:w-[60%] lg:w-[100vw] lg:translate-x-10" />
+                <img src="./images/hero-image.png" alt="" className="mx-auto md:w-[70%] lg:w-[100vw] lg:translate-x-10" />
             </div>
 
             <div className="mt-10 md:w-[100%] lg:w-[100%]">

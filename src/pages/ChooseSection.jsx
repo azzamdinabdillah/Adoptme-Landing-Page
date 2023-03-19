@@ -16,9 +16,9 @@ const ChooseSection = () => {
 
             <div className="mt-10 md:mt-20 lg:flex gap-32 justify-between items-center">
                 <div className="relative md:block md:mx-auto md:w-[50%] lg:scale-75 lg:w-full">
-                    <img src="./images/choose-pet-1.png" alt="" className="border-8 border-white shadow-xl lg:w-full" />
-                    <img src="./images/choose-pet-2.png" alt="" className="border-8 border-white shadow-xl absolute top-1/2 -translate-y-1/2 -right-8 md:-right-20 lg:-right-20 lg:scale-125" />
-                    <img src="./images/choose-pet-3.png" alt="" className="border-8 border-white shadow-xl absolute -bottom-16 -left-0 md:-left-28 scale-75 md:scale-90 lg:scale-100" />
+                    <img src="./images/choose-pet-1.png" alt="" className="border-8 border-white shadow-2xl lg:w-full" />
+                    <img src="./images/choose-pet-2.png" alt="" className="border-8 border-white shadow-2xl absolute top-1/2 -translate-y-1/2 -right-8 md:-right-20 lg:-right-20 lg:scale-125" />
+                    <img src="./images/choose-pet-3.png" alt="" className="border-8 border-white shadow-2xl absolute -bottom-16 -left-0 md:-left-28 scale-75 md:scale-90 lg:scale-100" />
                 </div>
                 <div className="mt-20 lg:mt-0 md:mt-28 md:w-[100%] md:flex justify-center items-start gap-20 lg:block lg:-translate-x-10">
                     <MainText text1={"adoptme community"} text2={"Connect with adoptme across the country"} text3={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. It ac purus eget. Sit dolor est proin vestibulum, duis. im dolor sit amet, consec."}  />

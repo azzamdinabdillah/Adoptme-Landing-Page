@@ -12,9 +12,9 @@ export const MainText = (props) => {
     return (
         <div>
             <p className="text-sm text-light-dark-color md:text-base uppercase">{props.text1}</p>
-            <h1 className="text-3xl md:text-4xl lg:text-[36px] lg:leading-relaxed leading-normal font-medium mt-1 lg:w-[100%]">{props.text2}</h1>
+            <h1 className="text-3xl md:text-4xl lg:text-[36px] lg:leading-relaxed leading-normal md:leading-normal font-medium mt-1 lg:w-[100%] md:w-[100%]">{props.text2}</h1>
 
-            <p className="mt-3 md:my-5 text-light-dark-color lg:text-[17px] md:text-lg lg:w-[100%]">{props.text3}</p>
+            <p className="mt-3 md:my-2 text-light-dark-color lg:text-[17px] md:text-lg lg:w-[100%] md:w-[100%]">{props.text3}</p>
         </div>
     )
 }
