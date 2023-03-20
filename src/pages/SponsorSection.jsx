@@ -3,7 +3,7 @@ import { MainText } from "../components/MainText";
 
 const SponsorSection = () => {
   return (
-    <section className="px-8 md:px-20 lg:px-32 mt-10">
+    <section className="px-8 md:py-20 md:px-20 lg:px-32">
       <div className="lg:grid grid-cols-2 items-center justify-between gap-28">
         <div className="">
           <img

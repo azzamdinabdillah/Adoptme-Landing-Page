@@ -6,7 +6,7 @@ const ChooseSection = () => {
             <div className="md:grid grid-cols-2 items-center md:gap-14 lg:gap-10">
                 <div className="">
                     <p className="text-sm text-light-dark-color md:text-base">OUR MISSION FOR PET</p>
-                    <h1 className="font-medium text-dark-color-2 text-2xl leading-normal md:leading-relaxed mt-1 md:text-3xl lg:text-[36px] lg:w-[80%]">Lets Choose and Adopt your New Lovely Pet</h1>
+                    <h1 className="font-medium text-dark-color-2 text-2xl leading-normal md:leading-relaxed mt-1 md:text-4xl lg:text-[36px] lg:w-[80%]">Lets Choose and Adopt your New Lovely Pet</h1>
                 </div>
 
                 <div>
